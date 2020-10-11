@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.univ.cloud/guestbook/index.html</loc>
+    
+    <lastmod>2020-10-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.univ.cloud/about/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://www.univ.cloud/tags/index.html</loc>
-    
-    <lastmod>2020-10-11</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.univ.cloud/guestbook/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
     
