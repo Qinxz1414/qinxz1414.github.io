@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.univ.cloud/guestbook/index.html</loc>
+    <loc>https://www.univ.cloud/2015/01/01/helloworld/</loc>
     
-    <lastmod>2020-10-11</lastmod>
+    <lastmod>2021-04-05</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.univ.cloud/about/index.html</loc>
+    
+    <lastmod>2021-04-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.univ.cloud/guestbook/index.html</loc>
     
     <lastmod>2020-10-11</lastmod>
     
@@ -22,17 +29,10 @@
     
   </url>
   
-  <url>
-    <loc>https://www.univ.cloud/2020/10/11/hello-world/</loc>
-    
-    <lastmod>2020-10-11</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://www.univ.cloud/</loc>
-    <lastmod>2020-10-11</lastmod>
+    <lastmod>2021-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
